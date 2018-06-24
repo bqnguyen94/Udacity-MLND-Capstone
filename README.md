@@ -8,6 +8,8 @@ My capstone project for Udacity's Machine Learning Nanodegree
 
 The training and testing datasets for the Fraud Detection Challenge can be downloaded from [Kaggle's competition webpage](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data).
 
+Note: The notebook assumes data files are stored in `./data/` directory.
+
 ## Requirements
 
 * Python >= 3.6
