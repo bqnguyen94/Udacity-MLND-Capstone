@@ -19,3 +19,7 @@ Note: The notebook assumes data files are stored in `./data/` directory.
 * xgboost == 0.72
 
 Note: It is recommended to use XGBoost with GPU support for better performance. To enable GPU support for XGBoost, please build the library from [source](https://github.com/dmlc/xgboost) with flag `-DUSE_CUDA=ON`. See more [here](https://xgboost.readthedocs.io/en/latest/build.html#building-with-gpu-support).
+
+
+
+
